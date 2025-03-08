@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Administrator/Desktop/New folder",
-      "program": "c:/Users/Administrator/Desktop/New folder/build/Debug/outDebug",
+      "cwd": "c:/Users/ALEXIS/OneDrive/Desktop/Laboratory/New-folder",
+      "program": "c:/Users/ALEXIS/OneDrive/Desktop/Laboratory/New-folder/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
